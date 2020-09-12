@@ -1,7 +1,5 @@
-st = 'Print only the words that start with s in this sentence'
-for item in st.split():
-     if item[0] == 's':
-        print(item)
-
-#Prints even numbers from 0 till 100:
-list(range(0,102,2))
+for list in range(0,10):
+    if list%2 == 0:
+        print(list)
+    else:
+        print('odd')
