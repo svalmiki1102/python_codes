@@ -1,5 +1,7 @@
 for list in range(0,10):
+## to check if the number is even or odd
     if list%2 == 0:
         print(list)
-    else:
+    elif:
         print('odd')
+    
