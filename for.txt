@@ -11,3 +11,5 @@ s = 'Print every word in this sentence that has an even number of letters'
 for ite in st.split():
     if len(ite) % 2 == 0:
         print(ite+" <-- has an even length!")
+
+HI how are u
